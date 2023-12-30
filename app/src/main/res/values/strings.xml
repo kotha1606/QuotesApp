@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project003</string>
+    <string name="quote_text">quote text</string>
+    <string name="author">-Author</string>
+    <string name="sk">SK</string>
+    <string name="created_by">Created by</string>
+    <string name="todo">TODO</string>
+</resources>
